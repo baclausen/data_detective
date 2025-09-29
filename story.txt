@@ -2,4 +2,11 @@ Chapter 1: The Mysterious Missing Data
 Once upon a time, there was a detective named Data who loved to solve puzzles...
 Suddenly, a mysterious figure left behind a clue: a USB drive labeled "TOP SECRET".
 Data opened it, only to find encrypted files that hinted at a hidden treasure...
+
 The drive may have contained malware...
+
+Chapter 2: The Hacker
+To discover the source of the code, Data scours the dark web in search of an old nemesis.
+
+Chapter 3: City Blackout
+Just as they schedule a time and place to meet, a countdown shows on his screen and the whole city goes dark.
